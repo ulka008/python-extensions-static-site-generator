@@ -440,3 +440,4 @@ def test_parsers_written_events_module4(parse):
     assert (
         written_rst_location
     ), 'Is the `"written"` event the last line of the `ReStructuredTextParser` `parse` method?'
+    

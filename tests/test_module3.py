@@ -584,3 +584,4 @@ def test_parsers_rst_menu_filter_module3(parse):
     assert (
         self_write_exists
     ), "Are you calling `self.write()` and passing in `path`, `dest`,  and `filtered`?"
+    

@@ -278,3 +278,4 @@ def test_hooks_filter_hook_module2(parse):
 
     returns_value = filter_call.returns("value")
     assert returns_value, "Are you returning `value` from the `filter` function?"
+    

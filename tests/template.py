@@ -549,3 +549,4 @@ def is_ast_equal(sample, template):
         return True
     except TemplateMismatch:
         return False
+        
